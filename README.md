@@ -17,7 +17,7 @@
 
 > [!IMPORTANT]
 > `Disclaimer:
-This remedial final project serves as a final crucial component of the educational and assessment sequence in Job Connector Data Science and Machine Learning Program at Purwadhika Digital Technology School. Please kindly download the notebook to your local environment to read the Jupyter Notebook.`
+This final project serves as a final crucial component of the educational and assessment sequence in Job Connector Data Science and Machine Learning Program at Purwadhika Digital Technology School. Please kindly download the notebook to your local environment to read the Jupyter Notebook.`
 
 **Author:** [Arief Luqman Hakiem](https://www.linkedin.com/in/ariefluqman/) dan [Samuel Semaya](https://www.linkedin.com/in/samuelsemaya/) <br>
 **Batch:** JCDS 2404 <br>
